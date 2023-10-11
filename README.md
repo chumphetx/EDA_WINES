@@ -14,4 +14,4 @@ This project conducting exploratory data analysis using a [Wine Review dataset f
 - Is price related to quality?
 - Are certain varieties of wine of higher quality?
 - What is the best wine in each price bracket?
-- What words are most used when talking about wine?
+
